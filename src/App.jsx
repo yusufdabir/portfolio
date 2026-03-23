@@ -1,4 +1,4 @@
-import { Home } from './pages/home'
+import { Home } from './pages/Home'
 import { RootLayout } from './rootlayout/RootLayout'
 import { useTheme } from './context/ThemeContext'
 
